@@ -15,7 +15,7 @@ The objective was to identify:
 
 * SQL
 * MySQL Workbench
-* 
+  
 ## Dataset
 
 * Orders Table
