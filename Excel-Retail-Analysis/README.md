@@ -39,5 +39,3 @@ Analyzed retail sales data using Microsoft Excel to identify revenue trends, cus
 
 * Excel Dashboard
 * Project Report
-* Dashboard Screenshots
-
